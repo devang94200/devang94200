@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @devang94200
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning MEARN Stack
-- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me using pateldevang301@gmail.com
 - 😄 Pronouns: devang 
-- ⚡ Fun fact: -
+
 
 <!---
 devang94200/devang94200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
